@@ -10,14 +10,14 @@
   padding-bottom: 25px;
 
   &__booktitle {
-    font-variation-settings: 'BLDA' 600, 'TRMD' 600, 'TRMK' 700, 'WMX2' 0,
-      'TRMG' 0, 'TRMB' 1000, 'TRMF' 1000, 'BLDB' 600, 'SKLA' 208;
+    font-variation-settings: 'BLDA' 750, 'TRMD' 750, 'TRMK' 50, 'WMX2' 0,
+      'TRMG' 0, 'TRMB' 00, 'TRMF' 00, 'BLDB' 00, 'SKLA' 00;
     letter-spacing: 5px;
     font-size: calc(var(--size-fluid-1) * 5);
   }
 
   &__poemtitle {
-    font-variation-settings: 'BLDA' 1000, 'BLDB' 0;
+    font-variation-settings: 'BLDA' 1000, 'BLDB' 100;
     font-size: calc(var(--size-fluid-1) * 3.5);
   }
 
