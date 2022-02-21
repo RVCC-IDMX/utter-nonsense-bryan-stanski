@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  padding-top: var(--size-2);
+  background-color: var(--indigo-9);
+}
+
+.container {
+  display: grid;
+  gap: var(--size-6);
+}
+
+.content {
+  width: 90%;
+  max-width: max-content;
+  margin: 0 auto;
+}

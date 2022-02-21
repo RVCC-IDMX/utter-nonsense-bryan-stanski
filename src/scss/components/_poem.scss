@@ -1,0 +1,19 @@
+@use '../base/typography';
+
+.content {
+  background-color: var(--cyan-9);
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: var(--radius-3);
+  box-shadow: var(--shadow-4);
+}
+
+.poem {
+  font-family: 'RobotoSerif';
+  display: grid;
+  place-items: center;
+}
+
+.stanza {
+  font-variation-settings: 'opsz' 100, 'wght' 750;
+}

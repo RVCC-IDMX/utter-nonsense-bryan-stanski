@@ -1,0 +1,15 @@
+.footer {
+  text-align: center;
+  font-size: var(--font-size-1);
+  font-weight: var(--font-weight-7);
+  font-family: var(--font-sans);
+}
+
+a:link {
+  color: var(--pink-4);
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
