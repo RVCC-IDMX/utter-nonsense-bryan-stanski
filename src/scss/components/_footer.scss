@@ -6,8 +6,12 @@
 }
 
 a:link {
-  color: var(--pink-4);
+  color: var(--grape-9);
   text-decoration: underline;
+}
+
+a:visited {
+  color: var(--gray-9);
 }
 
 a:hover {
