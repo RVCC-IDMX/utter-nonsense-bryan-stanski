@@ -1,5 +1,7 @@
 # Utter Nonsense
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2341f0fa-0c9b-4280-b36c-789b51ef3f60/deploy-status)](https://app.netlify.com/sites/utter-nonsense-bryan-stanski/deploys)
+
 F was a fish
 Who was caught in a net;
 But he got out again,
